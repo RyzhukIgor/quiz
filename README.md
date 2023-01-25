@@ -1,5 +1,5 @@
  
-<img src="/">  
+<img src="https://github.com/RyzhukIgor/quiz/blob/main/src/image/view.gif">  
 
 :open_file_folder:[Посмотреть проект](https://ryzhukigor.github.io/mesto/)  
 
