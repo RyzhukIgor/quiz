@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RyzhukIgor/quiz.git/static/css/main.f0f742f8.css",
+    "main.js": "/RyzhukIgor/quiz.git/static/js/main.ff3ff770.js",
+    "index.html": "/RyzhukIgor/quiz.git/index.html",
+    "main.f0f742f8.css.map": "/RyzhukIgor/quiz.git/static/css/main.f0f742f8.css.map",
+    "main.ff3ff770.js.map": "/RyzhukIgor/quiz.git/static/js/main.ff3ff770.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f742f8.css",
+    "static/js/main.ff3ff770.js"
+  ]
+}
